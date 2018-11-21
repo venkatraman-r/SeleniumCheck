@@ -18,7 +18,7 @@ public class NewTest {
 	  driver = new FirefoxDriver();
 	  driver.manage().window().maximize();
 	  driver.get("https://www.spicejet.com/");
-	  //check commit
+	  
   }
 
   @AfterMethod
